@@ -21,6 +21,6 @@ app.use("/", userRoutes);
 
 const PORT = 8080;
 app.listen(PORT, () => {
-  console.log(`http://localhost:${PORT}/dipa1`);
+  console.log(`http://localhost:${PORT}/users`);
 });
  
